@@ -1,3 +1,3 @@
 # Background-Blurr-opencv
 
- ![intro](blurr background.gif)
+ ![blurr background.gif](blurr background.gif)
